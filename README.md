@@ -1,6 +1,6 @@
 # Manar-Belmokaddem
 <p align="center">
-  <img src="manar-readme-banner.png" alt="Manar Belmokaddem — Data Scientist & AI Engineer" />
+  <img src="github-header.png" alt="Manar Belmokaddem — Data Scientist & AI Engineer" />
 </p>
 
 <h1 align="center">Hi, I'm Manar Belmokaddem 👋</h1>
