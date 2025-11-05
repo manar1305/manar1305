@@ -1,4 +1,3 @@
-# Manar-Belmokaddem
 <p align="center">
   <img src="github-header.png" alt="Manar Belmokaddem — Data Scientist & AI Engineer" />
 </p>
