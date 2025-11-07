@@ -20,7 +20,7 @@
 
 ## 🧠 About
 - Building with **LLMs**, **RAG**, and **Computer Vision** to turn data into smart, usable experiences.
-- Currently on a Master's of Data science in Paris Saclay
+- Currently on a Master's of Data science in **Paris Saclay University**
 - Engineering background: **ENSEIRB-MATMECA** (Telecom & AI) · **INPT Rabat** (Smart ICT).  
 - Curious, product-minded, and obsessed with **reliable, scalable AI pipelines**.
 
