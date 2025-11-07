@@ -2,7 +2,7 @@
   <img src="github-header.png" alt="Manar Belmokaddem — Data Scientist & AI Engineer" />
 </p>
 
-<h1 align="center">Hi, I'm Manar Belmokaddem 👋</h1>
+<h1 align="center">Hi, I'm Manar Belmokaddem 👩🏻‍💻</h1>
 <p align="center">
   <i>Data Scientist & AI Engineer — passionate about Generative AI, LLMs, and intelligent products.</i>
 </p>
@@ -27,24 +27,34 @@
 ---
 
 ## 🛠️ Tech Stack
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LangChain-121212"/>
-  <img src="https://img.shields.io/badge/LLMs-000000"/>
-  <img src="https://img.shields.io/badge/RAG-0A0A0A"/>
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-005C84?logo=databricks&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Oracle%20DB-F80000?logo=oracle&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ChromaDB-222222"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Azure%20DevOps-0078D7?logo=azuredevops&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PowerBI-F2C811?logo=powerbi&logoColor=black"/>
-</p>
+
+### 📄 Programming
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-005C84?logo=databricks&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)
+
+---
+
+### 🤖 AI & Machine Learning
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-000000)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white)
+
+---
+
+### 💾 Data & Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=white)
+
+---
+
+### ⚙️ Tools & DevOps
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure%20DevOps-0078D7?logo=azuredevops&logoColor=white)
+
 
 ---
 
@@ -54,10 +64,5 @@
 
 ---
 
-## 🤝 Let’s Connect
-- **LinkedIn:** Manar Belmokaddem  
-- **Email:** belmokaddemmanar@gmail.com
-
----
 
 ⭐️ *Thanks for visiting!*
